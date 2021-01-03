@@ -1,3 +1,6 @@
+### Hey :smiley:, I'm Gustavo Velazquez
+
+:mortar_board: Licenciatura en Informatica - UAA Mar del plata
 
 
 My GitHub Stats:
@@ -25,6 +28,4 @@ My GitHub Stats:
   ![NetBeans](https://img.shields.io/badge/-NeatBeans-1B6AC6?style=flat-square&logo=Apache-NetBeans-IDE&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
   
-  
-
 <br />
